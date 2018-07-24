@@ -1,5 +1,5 @@
-set(pathToProject C:/Users/BATMAN/Documents/Github/myappy)
-set(pathToOpenCv C:/Users/BATMAN/OpenCV-android-sdk)
+set(pathToProject C:/Users/hp/Documents/Github/ObjectDetection)
+set(pathToOpenCv C:/Users/hp/OpenCV-android-sdk)
 
 
 # For more information about using CMake with Android Studio, read the
